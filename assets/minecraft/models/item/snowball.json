@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/snowball"
   },
  "overrides": [
-                  { "predicate": {"custom_model_data": 1}, "model": "gn/glock-17"}
+                  { "predicate": {"custom_model_data": 1}, "model": "gn/glock-17"},
+                  { "predicate": {"custom_model_data": 2}, "model": "gn/mk2-grenade"}
  ]
 }
